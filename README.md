@@ -1,5 +1,4 @@
 # It-employee-application
-IT Employee Application
 This is a Python command-line application that allows an IT department to manage their employees' information, including personal details, job roles.
 
 Getting Started

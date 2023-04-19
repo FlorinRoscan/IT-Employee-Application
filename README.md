@@ -17,4 +17,4 @@ View a specific employee's details
 Update an employee's details
 
 Contributing
-If you would like to contribute to this project, feel free to submit a pull request. Please make sure to follow the project's coding standards and write tests for any new features or bug fixes.
+If you would like to contribute to this project, feel free to submit a pull request. Please make sure to follow the project's coding standards and write tests for any new features or bug fixes!
